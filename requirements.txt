@@ -41,3 +41,9 @@ python-dotenv
 
 sentence-transformers==5.1.0
 torch>=2.7.0
+
+google.genai
+
+qdrant-client
+
+groq

@@ -73,3 +73,7 @@ embeddings/
 # ==========================
 vector_db/
 ocr_cache/
+
+
+#local testing scripts
+scripts/
